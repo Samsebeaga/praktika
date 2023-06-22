@@ -1,0 +1,16 @@
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\bin\Debug\PraktikaSim.exe.config
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\bin\Debug\PraktikaSim.exe
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\bin\Debug\PraktikaSim.pdb
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\obj\Debug\PraktikaSim.csproj.AssemblyReference.cache
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\obj\Debug\PraktikaSim.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\obj\Debug\MainWindow.g.cs
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\obj\Debug\App.g.cs
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\obj\Debug\PraktikaSim_MarkupCompile.cache
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\obj\Debug\PraktikaSim_MarkupCompile.lref
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\obj\Debug\MainWindow.baml
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\obj\Debug\PraktikaSim.g.resources
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\obj\Debug\PraktikaSim.Properties.Resources.resources
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\obj\Debug\PraktikaSim.csproj.GenerateResource.cache
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\obj\Debug\PraktikaSim.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\obj\Debug\PraktikaSim.exe
+C:\Users\user.COMP-06\source\repos\PraktikaSim\PraktikaSim\obj\Debug\PraktikaSim.pdb
